@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Default
+  nttdataAgent
 
 steps:
 - task: ArchiveFiles@2
